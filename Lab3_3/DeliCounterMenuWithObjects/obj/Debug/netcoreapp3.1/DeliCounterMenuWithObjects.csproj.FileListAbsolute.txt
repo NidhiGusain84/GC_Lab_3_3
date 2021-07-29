@@ -1,0 +1,13 @@
+C:\Repos\Lab_3_3\Lab3_3\DeliCounterMenuWithObjects\bin\Debug\netcoreapp3.1\DeliCounterMenuWithObjects.exe
+C:\Repos\Lab_3_3\Lab3_3\DeliCounterMenuWithObjects\bin\Debug\netcoreapp3.1\DeliCounterMenuWithObjects.deps.json
+C:\Repos\Lab_3_3\Lab3_3\DeliCounterMenuWithObjects\bin\Debug\netcoreapp3.1\DeliCounterMenuWithObjects.runtimeconfig.json
+C:\Repos\Lab_3_3\Lab3_3\DeliCounterMenuWithObjects\bin\Debug\netcoreapp3.1\DeliCounterMenuWithObjects.runtimeconfig.dev.json
+C:\Repos\Lab_3_3\Lab3_3\DeliCounterMenuWithObjects\bin\Debug\netcoreapp3.1\DeliCounterMenuWithObjects.dll
+C:\Repos\Lab_3_3\Lab3_3\DeliCounterMenuWithObjects\bin\Debug\netcoreapp3.1\DeliCounterMenuWithObjects.pdb
+C:\Repos\Lab_3_3\Lab3_3\DeliCounterMenuWithObjects\obj\Debug\netcoreapp3.1\DeliCounterMenuWithObjects.csprojAssemblyReference.cache
+C:\Repos\Lab_3_3\Lab3_3\DeliCounterMenuWithObjects\obj\Debug\netcoreapp3.1\DeliCounterMenuWithObjects.AssemblyInfoInputs.cache
+C:\Repos\Lab_3_3\Lab3_3\DeliCounterMenuWithObjects\obj\Debug\netcoreapp3.1\DeliCounterMenuWithObjects.AssemblyInfo.cs
+C:\Repos\Lab_3_3\Lab3_3\DeliCounterMenuWithObjects\obj\Debug\netcoreapp3.1\DeliCounterMenuWithObjects.csproj.CoreCompileInputs.cache
+C:\Repos\Lab_3_3\Lab3_3\DeliCounterMenuWithObjects\obj\Debug\netcoreapp3.1\DeliCounterMenuWithObjects.dll
+C:\Repos\Lab_3_3\Lab3_3\DeliCounterMenuWithObjects\obj\Debug\netcoreapp3.1\DeliCounterMenuWithObjects.pdb
+C:\Repos\Lab_3_3\Lab3_3\DeliCounterMenuWithObjects\obj\Debug\netcoreapp3.1\DeliCounterMenuWithObjects.genruntimeconfig.cache
